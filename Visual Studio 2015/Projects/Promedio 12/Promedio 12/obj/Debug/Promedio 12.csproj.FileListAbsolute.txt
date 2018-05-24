@@ -1,0 +1,5 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\Promedio 12\Promedio 12\bin\Debug\Promedio 12.exe.config
+c:\users\alumnos\documents\visual studio 2015\Projects\Promedio 12\Promedio 12\bin\Debug\Promedio 12.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\Promedio 12\Promedio 12\bin\Debug\Promedio 12.pdb
+c:\users\alumnos\documents\visual studio 2015\Projects\Promedio 12\Promedio 12\obj\Debug\Promedio 12.exe
+c:\users\alumnos\documents\visual studio 2015\Projects\Promedio 12\Promedio 12\obj\Debug\Promedio 12.pdb

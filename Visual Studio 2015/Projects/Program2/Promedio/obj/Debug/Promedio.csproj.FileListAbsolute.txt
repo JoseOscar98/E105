@@ -1,0 +1,2 @@
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Program2\Promedio\bin\Debug\Promedio.exe.config
+C:\Users\Alumnos\Documents\Visual Studio 2015\Projects\Program2\Promedio\obj\Debug\Promedio.csprojResolveAssemblyReference.cache
